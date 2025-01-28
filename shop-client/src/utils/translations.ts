@@ -1,0 +1,31 @@
+// translations.ts
+export const translations = {
+    fr: {
+        shops: 'Boutiques',
+        products: 'Produits',
+        categories: 'Catégories',
+        shopManagement: 'Gestion de boutiques',
+        addShop: 'Ajouter une boutique',
+        sortBy: 'Trier par',
+        search: 'Rechercher',
+        noShopsFound: 'Aucune boutique correspondante',
+        confirmDelete: 'Confirmer la suppression',
+        deleteConfirmation: 'Êtes-vous sûr de vouloir supprimer cet élément ? Cette action est irréversible.',
+        cancel: 'Annuler',
+        confirm: 'Confirmer',
+    },
+    en: {
+        shops: 'Shops',
+        products: 'Products',
+        categories: 'Categories',
+        shopManagement: 'Shop Management',
+        addShop: 'Add Shop',
+        sortBy: 'Sort by',
+        search: 'Search',
+        noShopsFound: 'No matching shops',
+        confirmDelete: 'Confirm Deletion',
+        deleteConfirmation: 'Are you sure you want to delete this item? This action is irreversible.',
+        cancel: 'Cancel',
+        confirm: 'Confirm',
+    },
+};
